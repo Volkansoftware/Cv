@@ -4,7 +4,7 @@ this project include different technologies these are:
 
 ### Material-UI
 ### Styled-Components
-### Fecth API
+### Fetch API
 ### Formik
 ### Yup
 ### Router
