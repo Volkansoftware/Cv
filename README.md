@@ -4,3 +4,7 @@ this project include different technologies these are:
 
 ### Material-UI
 ### Fecth API
+### Formik
+### Yup
+### useState
+### useEffect
