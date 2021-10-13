@@ -1,0 +1,25 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    background-color: rgb(23, 57, 68);
+    color: white;
+}
+
+.search {}
+
+.left {
+    margin-left: 10px;
+}
+
+.right {
+    display: flex;
+    color: white;
+    margin-right: 10px;
+}
+
+li {
+    margin-right: 10px;
+    list-style-type: none;
+}
