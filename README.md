@@ -10,3 +10,5 @@ this project include different technologies these are:
 ### Router
 ### useState
 ### useEffect
+
+Note: Home page is not finished yet. 
