@@ -11,4 +11,4 @@ This project include different technologies these are:
 ### useState
 ### useEffect
 
-Note: Home page is not finished yet. 
+Note: This project is not finished yet. 
